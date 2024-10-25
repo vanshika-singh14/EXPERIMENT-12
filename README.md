@@ -304,15 +304,6 @@ int main()
 
 ```
 <br>
-
-**Outputs:**  <br>
-
-
-
-
-
-<br>
-
 **Conclusion:** <br>
 &#8594; We learnt about constructors and deconstructors in C++. <br>
 &#8594; We learnt the use case of each of them in C++. <br>
