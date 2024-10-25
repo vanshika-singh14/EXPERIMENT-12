@@ -306,31 +306,8 @@ int main()
 <br>
 
 **Outputs:**  <br>
-<br>
-a.<br>
-![12a](https://github.com/user-attachments/assets/b9fdf2db-d2f7-42fe-bb8f-7e8807391b1b)
 
- <br>
-b.<br>
- ![12b](https://github.com/user-attachments/assets/46991b44-dc4f-4a74-8912-334a042686be)
- <br>
 
-c.<br>
-![12c](https://github.com/user-attachments/assets/8ac7f312-ef6c-41e8-9407-bdc61e99e1a7)
-
- <br>
-d.<br>
-![12d](https://github.com/user-attachments/assets/61ad1465-2f2c-46ac-9a9a-027196a6ab03)
-
- <br>
-e.<br>
-![12e](https://github.com/user-attachments/assets/dc323f19-959b-4947-90c6-0e6fcfa2ea34)
-
- <br>
-f.<br>
-![12f](https://github.com/user-attachments/assets/44336c84-1fd9-4bfe-bc7e-f15913e764df)
-
-<br>
 
 
 
